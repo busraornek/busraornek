@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Büşra</h1>
 <h3 align="center">A passionate android developer from Türkiye</h3>
 
-- 🌱 I’m currently learning **Kotlin and Java**
+- 🌱 I’m currently learning **Kotlin and Java**                  
   
 - 💬 Ask me about **anything**
 
