@@ -3,9 +3,7 @@
 <h3 align="center">A passionate android developer from Türkiye</h3>
 
 - 🌱 I’m currently learning **Kotlin and Java**
-
-- 👨‍💻 All of my projects are available at [https://github.com/busraornek](https://github.com/busraornek)
-
+  
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **busraornek48@gmail.com**
